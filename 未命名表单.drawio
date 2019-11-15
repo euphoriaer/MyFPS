@@ -1,1 +1,43 @@
-<mxfile host="www.draw.io" modified="2019-11-06T08:59:25.762Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3730.400 QQBrowser/10.5.3805.400" etag="Rp6G8wBstE_HendzXePS" version="12.2.0" type="github" pages="1"><diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">5VhRb5swEP4197gJ40DsRyBkm9RV07Jp3d684AItiTPXWcJ+/WwwoS5pl03qiNQoQvbns33cfd8ZAJys9m8k2xTvRcYr8L1sD3gGvk88rK8GqFsgDIIWyGWZtRDqgUX5i1vQs+i2zPidY6iEqFS5ccGlWK/5UjkYk1LsXLNrUbm7bljOB8Biyaoh+qXMVGFvyw97/C0v86LbGYW0HfnOlre5FNu13Q98fN382uEV69ayN3pXsEzs7kE4BZxIIVTbWu0TXpnQdmFr580fGT34LflanTKhuPr2aUY/3v64ufxcf7gpL995i1fI8613qu4iwjMdINsVUhUiF2tWpT0aN3fNzbqe7vU2F0JsNIg0eMOVqm222VYJDRVqVdlR7bKsr8z810HX/WqXazqzvdOrba/11Tj4aBAsdCe2csmfuHNqE6yYzLl6MkTokC0tAi5WXLukZ0peMVX+dF1hlo75wa5PiW7YrPxFhjo/f7Jqa7eCNAAyA4JNI5pDHDeNFGgE6QTimRlNpxDjZmhqrnQ+yLObxV1RKr7YsCZoOy11N2PWCS4V3z8d+2GgugnEloq661tl7HrdoU4txT3Nhd4zxRZ503NiP/qP7Kcnsz8Ylf30CPunQDFEoWkQCmRq2E8TiL2mEUOcjs51HLhcn0zG53o4LtedOt8T//m5bgv4+ZP94KjDdmKIbWq9pv0EIvKP1d9Mj4BMjHFMzahZZ96oBoMuxWT4JNBnH41yQmBvfNXQF6ua4GTVkHFVExx9QjKqCY9JQzfmECFIQyDIKMhqpFEE1bPISUdMqrWTAEmsMI3EQjOXeseMB5uOrbWHJ9Q5aI0cPewf5iaEmJh/G25dwkyyE6CBQbQlGeQm6ozjqeVBPHfq6R+z1W5BPFs0KbqIF41vqCmyA5fGzm7gn112ERpE5WW8aaLuU8fZV9LOUUeAJ8ht7Kfth2x/zjdL3e2/2TRj976L4fQ3</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-15T06:31:30.010Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3730.400 QQBrowser/10.5.3805.400" etag="RkdX3Zc8_mSIcnbLNRf2" version="12.2.6" type="github" pages="1">
+  <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
+    <mxGraphModel dx="963" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="hXZTD9RkqjNUyPjiNI0S-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hXZTD9RkqjNUyPjiNI0S-96" target="hXZTD9RkqjNUyPjiNI0S-101" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hXZTD9RkqjNUyPjiNI0S-96" value="千寻定位系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="183" y="160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hXZTD9RkqjNUyPjiNI0S-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="hXZTD9RkqjNUyPjiNI0S-99" target="hXZTD9RkqjNUyPjiNI0S-105" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hXZTD9RkqjNUyPjiNI0S-99" value="瓦片地图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="353" y="440" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hXZTD9RkqjNUyPjiNI0S-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hXZTD9RkqjNUyPjiNI0S-101" target="hXZTD9RkqjNUyPjiNI0S-105" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hXZTD9RkqjNUyPjiNI0S-101" value="调用千寻定位系统的平台。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="183" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hXZTD9RkqjNUyPjiNI0S-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hXZTD9RkqjNUyPjiNI0S-105" target="hXZTD9RkqjNUyPjiNI0S-108" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hXZTD9RkqjNUyPjiNI0S-105" value="将定位信息结合瓦片地图，生成地图信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="353" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hXZTD9RkqjNUyPjiNI0S-108" value="结合游戏引擎，用户使用地图信息开发LBS类游戏" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="523" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hXZTD9RkqjNUyPjiNI0S-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hXZTD9RkqjNUyPjiNI0S-110" target="hXZTD9RkqjNUyPjiNI0S-108" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hXZTD9RkqjNUyPjiNI0S-110" value="游戏引擎" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="523" y="160" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
